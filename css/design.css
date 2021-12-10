@@ -1,0 +1,16 @@
+#neko-brand{
+    font-family: 'Fira Code', monospace;
+    color: #47E10C;
+    font-weight: bold;
+    text-shadow: grey 1px 1px 2px;
+    
+    
+}
+
+#neko-nav-link{
+    color:white;
+}
+
+#neko-navbar{
+    border: 1px solid white;
+}
